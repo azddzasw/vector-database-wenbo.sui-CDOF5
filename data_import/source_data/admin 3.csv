@@ -1,0 +1,876 @@
+id,text,label,Comments
+1944,"Value statement：As a site visitor, I want to be able to find out about events and activities going on around the borough. Acceptance criteria: Easy to use, interactive events calendar to include the following features:
+* Events can be searched by date, location, category or a combination of all these
+* Events to show an image, location - including map, dates, times, cost, contact / booking information, and other relevant information","Value Statement Score:
+
+One role defined (10/10): Defines only one user role, ""site visitor.""
+Definition length (10/10): The definition is concise, not exceeding 10 words.
+Presence of keywords (10/10): Includes key phrases like ""As a,"" ""I want to,"" ""So that.""
+Number of commas and ""ands"" (10/10): Comma and ""and"" usage is within the limit.
+Acceptance Criteria Score:
+
+Keyword consistency (10/10): Keywords from the value statement are reflected in the acceptance criteria.
+Correlation with ""So that"" (8/10): The ""So that"" part correlates with the user definition but may benefit from clearer alignment.
+Correlation with ""So that"" and ""I want to"" (8/10): The ""So that"" part correlates with the ""I want to"" part but could have a more explicit connection.
+Product definition in ""I want to"" (10/10): The ""I want to"" part includes a specific description of the product.
+Total Score: 7
+6/80
+
+Feedback/Suggestions:
+
+The ""So that"" part may need clarification to ensure alignment with the user's definition and expectations.",
+1945,"Value statement: As an event organiser, I want to advertise my local events on the Haringey website. Acceptance criteria: * Ability for event organisers to submit events for consideration (public webform to contain mandatory and optional fields, plus ability to upload an image)
+* Submitted events go into a queue for review/approval (also triggers an email alert to content editors)","Value Statement Score:
+
+One role defined (10/10): Defines only one user role, ""event organiser.""
+Definition length (10/10): The definition is concise, not exceeding 10 words.
+Presence of keywords (10/10): Includes key phrases like ""As a,"" ""I want to,"" ""So that.""
+Number of commas and ""ands"" (10/10): Comma and ""and"" usage is within the limit.
+Acceptance Criteria Score:
+
+Keyword consistency (10/10): Keywords from the value statement are reflected in the acceptance criteria.
+Correlation with ""So that"" (10/10): The ""So that"" part correlates closely with the user definition.
+Correlation with ""So that"" and ""I want to"" (10/10): The ""So that"" part correlates closely with the ""I want to"" part.
+Product definition in ""I want to"" (8/10): The ""I want to"" part could provide a more specific description of the product.
+Total Score: 78/80
+
+Feedback/Suggestions:
+
+The ""I want to"" part could be more specific in describing the product to ensure clear understanding by developers.",
+1946,"Value statement: As a content editor, I want to manage events in a central place yet publish events in different places to avoid duplication and effort. Acceptance criteria: * Event information can be filtered (by category/location etc) and made to appear on other pages/websites (e.g. business events appear on business pages, events in Tottenham can appear on the Tottenham microsite)","Value Statement Score:
+
+One role defined (10/10): Defines only one user role, ""content editor.""
+Definition length (10/10): The definition is concise, not exceeding 10 words.
+Presence of keywords (10/10): Includes key phrases like ""As a,"" ""I want to,"" ""So that.""
+Number of commas and ""ands"" (10/10): Comma and ""and"" usage is within the limit.
+Acceptance Criteria Score:
+
+Keyword consistency (10/10): Keywords from the value statement are reflected in the acceptance criteria.
+Correlation with ""So that"" (10/10): The ""So that"" part correlates closely with the user definition.
+Correlation with ""So that"" and ""I want to"" (10/10): The ""So that"" part correlates closely with the ""I want to"" part.
+Product definition in ""I want to"" (10/10): The ""I want to"" part provides a clear and concise description of the product.
+Total Score: 80/80
+
+Feedback/Suggestions:
+
+Overall, the score is high, and it's recommended to maintain this clear style of writing user stories.",
+1947,"Value statement: As a content editor, I want to be able to easily add recurring date information, and keep information up to date. Acceptance criteria: Can tag events as recurring, allowing for patterns such as daily, weekly, monthly, first Monday of every month, every other week,  with ability to include/exclude specific dates (such as holidays)
+End and review dates available for events.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-structured, with a clear value statement and detailed acceptance criteria. All criteria are met without any issues.",
+1948,"Value statement: As a content editor, I want to be able to create subsites within the main Haringey website which differ visually from the main website content, yet are managed in the same CMS. Acceptance criteria: Subsite option available for editors which has:
+* different header and footer
+* access to different page templates and components available within other sections of the site
+* different theme/primary colour (chosen from wider palette)
+[not to be confused with Microsites which are very different stylistically and have their own domain]","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 8/10
+Total Score: 78/80
+Feedback:
+The product definition in the ""I want to"" part could be more specific for a perfect score.",
+1949,"Value statement: As a news editor, I need to be able to quickly create engaging news stories which people can find, share and engage with easily. Acceptance criteria: • news stories can contain rich media including images, video and audio, and have separate footer including 'share this' options and promotional messages (e.g. sign up to our newsletter)
+• ability to tag news items appropriately using editor defined taxonomy terms (subject/audience/location etc) so they can appear where required. 
+• latest news page/newsroom showing the latest news stories, pinned stories and social media feeds.
+• different expiry rules to be applied to news stories (i.e. they move into an archive after 2 years)
+• leader story image available (with a default should none be supplied)
+• news can be scheduled to appear in advance","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-crafted, with a concise value statement and comprehensive acceptance criteria. All criteria are met without any issues.",
+1950,"Value statement: As a site visitor, I need to be able to search directory-style content easily (for example local community services, park facilities, services for people with SEND). Acceptance criteria: * search by keyword, taxonomy based facets (such as location, cost, audience, service)
+* search results displayed by list or map (list can be ordered in different ways - alphabetical or distance for example)
+* geo-enabled search (detecting person's current location to find nearest)
+* integrations with third party directory suppliers (e.g. NHS, CQC) available","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-crafted, with a concise value statement and comprehensive acceptance criteria. All criteria are met without any issues.",
+1951,"Value statement: As a site visitor, I would like to find jobs available in the council Acceptance criteria: * searchable job listing content type, with grade, job type and other taxonomy terms applied
+* keyword search filter available (with the ability to add future search c=facets if needed in the future)","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-crafted, with a concise value statement and comprehensive acceptance criteria. All criteria are met without any issues.",
+1952,"Value statement: As a content editor,I want the CMS to automatically format document links, so the links are consistent and to save time.  Acceptance criteria: * Document links display the correct file type and size for an uploaded file
+* Document information is removed when the link to a document is deleted from the CMS","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-crafted, with a concise value statement and comprehensive acceptance criteria. All criteria are met without any issues.",
+1953,"Value statement: As a content editor,I want to be able to easily add, find, update and delete documents in the CMS Acceptance criteria: * Items can be searched for by name, item type, date added, who added it, date updated, who updated it, size
+* Replacing a file updates all links to that same file on the website
+* File usage option to see where a file is being used currently","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-crafted, with a concise value statement and comprehensive acceptance criteria. All criteria are met without any issues.",
+1954,"Value statement: As a site administrator,I want to be able to control the types of documents that can be uploaded to the site. Acceptance criteria: * Attempts to upload non-approved/non-standard document formats blocked
+* Admin can easily edit the list of acceptable file types","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-crafted, with a concise value statement and comprehensive acceptance criteria. All criteria are met without any issues.",
+1955,"Value statement: As website manager,I want to be able to import content from the old Drupal 7 website in to the new website to save time Acceptance criteria: * Selected sections and pages to be imported with all content, including images, media, documents and links, into an appropriate page template on the new site
+* Migration errors flagged so these can be easily fixed by content designers
+* Test scripts to be ran to determine accuracy of migration
+NOTE for purposes of evaluation please base this on us having 4,000 webpages, 8,000 documents and 3,000 images to migrate.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-crafted, with a concise value statement and comprehensive acceptance criteria. All criteria are met without any issues.",
+1956,"Value statement: As website manager,I want to be redirect traffic from the old site to the correct new page on the new site Acceptance criteria: * Import redirects as part of migration process
+* Redirects can be set up and edited
+* Redirects tested and working","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-crafted, with a concise value statement and comprehensive acceptance criteria. All criteria are met without any issues.",
+1957,"Value statement: As website manager,I want to allocate users specific roles and permissions so that I can carefully control who edits what Acceptance criteria: 1. Super Admin (reserved for developers and platform management). 
+2. Admin (central senior content designers and developers who can delete content, create new templates, change global content and configure modules).
+3. Content editor (can review, publish and unpublish content and run reports)
+4. Content author (can update specific sections of the website but not publish or delete anything). All requests for publication go to the central content team for review and sign off.
+5. News editors (Press officers who are allowed to create and publish their own news releases).
+6. Emergency publisher (is able to publish site-wide and section alerts out of hours)
+7. Read only (users who have access to view draft/unpublished content - no edit permissions)","Value Statement Evaluation:
+One role defined: 8/10
+Feedback: The user roles are well-defined, but it's not explicitly clear who the ""website manager"" is in this context. A brief clarification could enhance understanding.
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 9/10
+Feedback: The process for modifying roles could be specified for a more comprehensive understanding.
+Total Score: 66/80
+Feedback:
+Overall, the user story is well-defined, but some minor enhancements can be made for more clarity, particularly in connecting ""So that"" to the user's role and specifying the role modification process.",
+1958,"Value statement: As a site administrator,I want access to an error log, to help fix problems as they occur on the site Acceptance criteria: * Report to show technical error messages set up
+* Report can be sorted and filtered by key fields","Value Statement Evaluation:
+One role defined: 8/10
+Feedback: Similar to the previous user story, a brief clarification about who the ""site administrator"" is would improve understanding.
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 9/10
+Feedback: The report's utility could be specified for a more complete understanding.
+Total Score: 67/80
+Feedback:
+The user story is well-structured, but adding details about the utility of the error log report could enhance the understanding. Additionally, a brief clarification about the ""site administrator"" could improve context.",
+1959,"Value statement: As a site administrator,I want to ensure that the site is kept secure Acceptance criteria: Administrator should be able to set
+* Set password format and strength (minimum to include at least 8 characters including a capital, and a number.)
+* Enforce password resets to be done at regular intervals at a frequency set by the Administrator.","Value Statement Evaluation:
+One role defined: 8/10
+Feedback: Similar to previous stories, a brief clarification about the ""site administrator"" would improve understanding.
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 77/80
+Feedback:
+The user story is well-structured, but some minor enhancements can be made for more clarity, particularly in connecting ""So that"" to the user's role and specifying the role modification process.",
+1960,"Value statement: As a site visitor,I want the site to be fast and responsive, so the information I want loads quickly Acceptance criteria: * Site uses caching controls for performance benefit (e.g. site cache is set up to refresh itself on a regular scheduled basis)
+* Ability to set different refresh rates for different content types (e.g. news should refresh more regularly)
+* Ability to manually update the cache for certain important pages if required
+* Site built in such a way as to remove unnecessary code and deliver fast content
+* Page speed to be monitored and measured using external tools","Value Statement Evaluation:
+One role defined: 8/10
+Feedback: Specify who the ""site visitor"" is for a clearer context.
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 78/80
+Feedback:
+The user story is well-defined, but specifying who the ""site visitor"" is and adding more details about the manual cache update process could enhance clarity.",
+1961,"Value statement: As a site administrator,I want to have access to the platform code at all times so that I can edit, modify, integrate, etc.   Acceptance criteria: * full access to code is available to developers on request
+* access to CMS codebase / Repo and APIs as needed","Value Statement Evaluation:
+One role defined: 8/10
+Feedback: Clarify who the ""site administrator"" is for better context.
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 78/80
+Feedback:
+The user story is well-constructed, but clarifying who the ""site administrator"" is would improve understanding. Additionally, specifying the process for developers to request code access could enhance clarity.",
+1962,"Value statement: As a site administrator,I want to have the ability to either replicate a development environment locally or have access to supplier’s own – so that we can mirror what they have to reduce potential for issues arising from differences in environment/versions etc when collaborating with suppliers.  Acceptance criteria: Detailed instructions from the supplier provided so that Haringey developers can mirror what they have to reduce potential for issues arising from differences in environment/versions etc.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to user definition: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to ""I want to"" part: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+Product definition in ""I want to"" part: 9/10
+Feedback: Providing more details about the supplier's instructions could enhance understanding.
+Total Score: 76/80
+Feedback:
+The user story is generally well-structured, but some minor enhancements can be made for more clarity, particularly in connecting ""So that"" to the user's role and specifying the details about the supplier's instructions.",
+1963,"Value statement: As a site administrator,I want to be able to add additional functionality or make changes to the website in a safe way  Acceptance criteria: Developers are given access to the documentation of development environment / standards / release cycles / procedures etc so that they can follow the same standards.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 79/80
+Feedback:
+The user story is well-constructed, but some minor enhancements can be made for more clarity, particularly in connecting ""So that"" to the user's role and specifying the process for developers to follow standards.",
+1964,"Value statement: As a content  editor,I want the search engine to quickly update itself when I publish, delete or archive content, so  users don’t see unpublished content or content that has been archived or removed from the site. Acceptance criteria: * Search automatically fully refreshes every day
+* New content submitted to site search as soon as published
+* Content editors have the ability to force a refresh/re-indexing of a specific page more quickly if needed","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 79/80
+Feedback:
+The user story is well-constructed, but some minor enhancements can be made for more clarity, particularly in connecting ""So that"" to the user's role and specifying the process for manual refresh/re-indexing.",
+1965,"Value statement: As a content  editor,I want the search engine to be able to index and un-index all the content I publish on the site, so that the search results include all the content on the site Acceptance criteria: Search engine can index content in a range of different formats: HTML, text, CSV, Excel, Word, PDF, PowerPoint","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to user definition: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to ""I want to"" part: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+Product definition in ""I want to"" part: 10/10
+Total Score: 77/80
+Feedback:
+The user story is generally well-constructed, but some minor enhancements can be made for more clarity, particularly in connecting ""So that"" to the user's role and specifying the range of formats for content indexing.",
+1966,"Value statement: As a content  editor,I want to be able to exclude content, so I can easily remove content I don't want users to see when, for example, something has been published when it shouldn't have been Acceptance criteria: Ability to hide pages from site search and external engines such as Google and Bing","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to user definition: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to ""I want to"" part: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+Product definition in ""I want to"" part: 10/10
+Total Score: 77/80
+Feedback:
+The user story is generally well-constructed, but some minor enhancements can be made for more clarity, particularly in connecting ""So that"" to the user's role and specifying the process for content exclusion.",
+1967,"Value statement: As a content  editor,I want to be able to promote the ""best answer"" for a given search term, so I can guide web site users to the content that best meets what they are looking for Acceptance criteria: Ability to manually promote certain pages based on search terms entered","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to user definition: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to ""I want to"" part: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+Product definition in ""I want to"" part: 10/10
+Total Score: 77/80
+Feedback:
+The user story is generally well-constructed, but some minor enhancements can be made for more clarity, particularly in connecting ""So that"" to the user's role and specifying the process for manual promotion of certain pages.",
+1968,"Value statement: As a site administrator,I want to be able to integrate Google CSE Search (because it's the current search engine used by the Council). Acceptance criteria: Google Search integration available","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the integration goal is clear. However, it could be beneficial to provide additional context or reasons behind the integration.",
+1969,"Value statement: As a site visitor,I want to only search certain types of content (e.g. news items/stories) so that I can find relevant information to me Acceptance criteria: Faceted search / Search that only return results form specific parts of the site or specific content.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to user definition: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to ""I want to"" part: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+Product definition in ""I want to"" part: 10/10
+Total Score: 77/80
+Feedback:
+The user story is generally well-constructed, but some minor enhancements can be made for more clarity, particularly in connecting ""So that"" to the user's role and specifying the types of content that can be searched.",
+1970,"Value statement: As a site visitor,I want to see the number of items my search has found, so I can make a decision on how long I want to spend looking through results or whether I should refine what I am searching for Acceptance criteria: * Search results page is clearly laid out and includes the number of search matches found
+* Pager available showing 10 or 20 pages at a time (configurable by admins)
+* Result count is displayed and is correct","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the inclusion of search result count is clear and aligned with user needs.",
+1971,"Value statement: As a site visitor,I want help if my search term returns no results , so I don't feel I've reached a dead end and don't know what to do next Acceptance criteria: * The page should say “No results found for <search term>.”
+* 'Did you mean?' option available showing similar search terms. 
+* Message beneath that customisable by site editors.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the provision for guidance when no results are found is aligned with user expectations.",
+1972,"Value statement: As a site visitor,I want an engaging, professional, modern website design where I can find what I want quickly and easily. Acceptance criteria: Design agency will be expected to deliver a fresh  design and layout for the Haringey website. This to cover responsive display on different devices, homepage, landing and content pages, globals (header and footer), and design patterns in use on these pages. These will take into account results of user research and top task data (which will be provided), plus our existing online brand / logo guidelines and colour palette.
+For the purposes of evaluation please quote for the following:
+* 3 concept designs for the home page, a landing page and standard content page
+* 2 iterations of feedback and refinements
+* user tesing of top 2 design approaches (mocked up using Figma or similar)
+* once final design agreed production of CSS and templates, design patterns and standards (see 9.2 below) upon which the website will be built","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+""So that"" correlated to ""I want to"" part: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+Product definition in ""I want to"" part: 10/10
+Total Score: 79/80
+Feedback:
+The user story is generally well-constructed, but some minor enhancements can be made for more clarity, particularly in connecting ""So that"" to the user's role and specifying the design expectations.",
+1973,"Value statement: As a site administrator,I want to be able to refer to a library of pre-designed design patterns and standards when adding and building components to enable a consistent, accessible user journey across different pages and sites Acceptance criteria: * A published set of design guidelines and patterns to be delivered - in a similar format to http://design.brighton-hove.gov.uk/ - covering all the different page types being used.
+* Patterns to include those already available within Local Gov Drupal CMS which we customise/re-brand according you our own colour palette, plus new ones we may request. 
+Note basic brand guidelines covering colours, font and logo usage already exist. These will need to be aligned with the GDS-based design components that come with Local Gov Drupal. Copy writing guidelines already exist too and will be updated by the in-house team.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the need for a library of design patterns is clear and aligned with maintaining a consistent user journey.",
+1974,"Value statement: As an e-mentoring solution user (mentor or mentee),  I want to register to the e-mentoring system, so that I can access the system's modules, as per my user roles. Acceptance criteria: 1. Mentor or mentee user can fill the registration questionnaire to register themselves to e-mentoring solution.
+2. User cannot move further without filling all the required fields in the registration questionnaire.
+3. Password cannot be smaller than 8 symbols and maximum of 25 symbols with the following requirements:
+   - Using a minimum of one Capital letter
+   - Using a minimum of one small letter
+   - Using minimum one Number
+   - Using at least one Special symbols
+4. Password requirements are clearly stated on the registration form, so that the user is aware of them before inputing it.
+5. User is only able to submit and to open the page via secure encrypted URL by default.
+6. After registration the user receives the registration confirmation email.
+7. Password and Repeat password is masked with asterisks (*) during user input
+8. Green check mark next to 'New Password' data field is displayed after typing password that meets criteria.
+9. Red cross mark next to 'New Password' data field is displayed after typing password that does not meet criteria.
+10. When the user successfully submits the registration, new mentee or mentor user is created and email notification is sent to her/his email address.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the registration process aligns with the expectations of a mentor or mentee user.",
+1975,"Value statement: As an approver, I want to approve user access request from a mentor, so that he/she can be granted access and use the e-mentoring solution. Acceptance criteria: 1. When a mentor submits an access request, the approver receives an email notification, that includes the link to approval page. 
+2. Approval page contains Approve and Reject button, as well as Comment field.
+3. When approver clicks the Approve button, the mentor role is assigned and email notification is sent to the mentor user. 
+4. When approver clicks the Reject button, Comment field also must be filled with the reason of rejection. 
+5. When approver clicks the Reject button, email notification is sent to the mentor user., including the comment with reason of rejection. Access is not assigned to the mentor user.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the approval process for user access is clear and aligned with the needs of the approver.",
+1976,"Value statement: As an e-mentoring solution user,  I want to login to e-mentoring solution, so that I can access the system's modules, as per my user roles. Acceptance criteria: 1. The user enters correct username and password and logs on to system, as per her/his roles.
+2. When a user enters either incorrect username or password, the user cannot login and receives the error message.
+3. There is no user locking mechanism, no matter how many wrong tries there have been.
+4. Password requirements are clearly stated on the registration form, so that the user is aware of them before inputing it.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the login process aligns with the expectations of an e-mentoring solution user.",
+1977,"Value statement: As an e-mentoring solution user,  I want to be able to reset my password, so that I can access the system's modules, as per my user roles. Acceptance criteria: 1. User needs to enter the following input fields :
+    - New Password
+    - Re-enter New Password
+2. Password cannot be smaller than 8 symbols and maximum of 25 symbols with the following requirements:
+   - Using a minimum of one Capital letter
+   - Using a minimum of one small letter
+   - Using minimum one Number
+   - Using at least one Special symbols
+3. Password requirements are clearly stated on the registration form, so that the user is aware of them before inputing it.
+4. New Password and Re-enter New Password entry are masked while user types it.
+5. Green check mark next to 'New Password' data field is displayed after typing password that meets criteria.
+6. Red cross mark next to 'New Password' data field is displayed after typing password that does not meet criteria.
+7. The user cannot move further until inputs in 'New Password' and 'Re-enter Password' match.
+8. If password entered does not match criteria specified and user hits Submit, error ""Password entry does not meet criteria"" is shown.
+9. After successful validation of all entered password fields and on clicking Submit, password is updated for the user, message 'Password is successfully updated' is shown, and the user is asked to log in again, using the new credentials.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the password reset process aligns with the expectations of an e-mentoring solution user.",
+1978,"Value statement: As an administrator user, I want to enter terms of program for mentor and mentee, so that they can read them when the program start and know their duties and expectations from them, as well as reference them during the program duration.  Acceptance criteria: 1. There are two types of terms of program: one for mentors and one for mentees.
+2. Terms of program are textual guidebooks to mentors and mentees. They contain general guidance on what are the duties of a mentor or a mentee, what are expectations on them, or some useful advice.
+3. Terms of program are accessible to read or reference at any time.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 9/10
+Feedback: The value statement could provide more context or details about the importance of having clear program terms.
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the user's role and responsibilities.
+Product definition in ""I want to"" part: 10/10
+Total Score: 78/80
+Feedback:
+The user story is well-constructed, but some enhancements in the value statement for better context and connection between ""So that"" and the user's role could be beneficial.",
+1979,"Value statement: As a mentor or mentee,  I need to formally accept terms of program, before I can start working on a program. The formal acceptance is needed to verify both mentees and mentors have read them and understand them, as well as to stress the commitment and dedication to the program, of both mentors and mentees. Acceptance criteria: 1. Accept button (at the end of the terms/memorandum) is available initially, until it the terms (memorandum) are accepted by mentor/mentee. After it is accepted, mentor/mentee can access the terms for reference or re-read, but the Accept button is no longer visible.
+2. Accept button is not available until the user reaches the end, to make sure they have read it. 
+3. Admin user can check the list of users in the program, who have not accepted the terms of program yet. 
+4. Admin user can send reminder email message to the mentors and mentees who have not accepted the terms of program yet. 
+5. After accepting the terms/memorandum, mentor/mentee can starting using the e-mentoring solution as per their roles and thus participate in the mentoring program.
+6. The acceptance is valid for single program, the mentee/metor is participating in. I.e., they need to accept it again for the next program, because the parameters might be different.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the formal acceptance process aligns with the need for mentors and mentees to commit to the program terms.",
+1980,"Value statement: As an administrator user, I would like to set mentorship parameters, such as duration, review periods, etc, so that the program can start and mentee and mentor can cooperate. Acceptance criteria: 1. Administrator user can enter following parameter of a new program:
+  - Program name/ description
+  - Program duration (start and end dates)
+  - Review periods (for example: have regular reviews every month)
+  - Minimium requirement for mentor mentee to meet (for example: every mentor and mentee must meet at least once a month)
+  - Terms of program/memorandum for mentors
+  - Terms of program/memorandum for mentees
+  - Signifficant milestones n the program (if any)
+2. When the start date is reached, the program is automatically started. I.e. there is no need to manually initiate the program.
+3. When the start date is reached, the program is automatically finished. I.e. there is no need to manually close the program.
+4. The set parameters are guidance during the projects duration. Mentors and metees receive email notifiactions on the signifficant milestones. 
+5. Mentor and mentee are reminded by email to meet, 5 calendar days before the end of minimum requirement period, starting from the last time day met (sessions in calendar). For example: if minimum requirement to meet is every 30 calendar days and mentor and mentee met the last time on 15 February 2021, they will both receive an email reminder on 12 March 2021.
+6. If Mentor and mentee are meeting more frequently than the minimum requirement, they are never reminded by email, because the period to notify is never reached.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the parameter-setting process is clear, ensuring smooth program initiation.",
+1981,"Value statement: As an administrator user, I want to setup for a joint intro workshop for a program, so that all the mentors and mentees in the program can participate in it.  Acceptance criteria: 1. Administrator user creates calendar entry for all mentors and mentees, to kickoff the program. All mentors and mentees are invited.
+2. In this workshop, all mentors and mentees officially accept (sign) their memorandums and are presented with the program and their roles and responsibilities (are presented with the intro texts/instructions on their tasks as mentors or mentees).
+3. This is the official program start.
+4. This joint intro workshop is considered the first session for mentor and mentee. The next one must be at least after the minimum requirement to meet number of days (set in the mentorship program parameters), but can be scheduled sooner and more frequently.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the initiation workshop concept is clear, ensuring all participants understand their roles and responsibilities.",
+1982,"Value statement: As a mentee or mentor, I want to set goals for our mentorship program, so that we can track progress and adjust these goals, throughout the program. Acceptance criteria: 1. A mentee sets her/his goals for the mentorship program in the e-mentoring solution, preferably after the joint intro workshop, but can be after the second session with the mentor, the latest.
+2. A mentor can also enter the goals in the e-mentoring solution, but it is preferred that mentee does it.
+3. Mentor and mentee should work together to define these goals. The goals should:
+  - Consider both short- and long-term goals
+  - Be realistic
+  - Be SMART (Specific, Measurable, Attainable, Relevant, Time-bound)
+This is stated as a guideline when entering the goals to the e-mentoring solution.
+4. These goals, along with the agenda, are shown in the calendar entry for every session between mentor and mentee.
+5. Goals can be updated during the program, if the mentor and mentee agree on that.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the goal-setting process is clear, ensuring collaborative definition of goals between mentors and mentees.",
+1983,"Value statement: As a mentee or mentor, I want to set agenda for the next scheduled session, so that we can be efficient and effective on the session and come prepared to it. Acceptance criteria: 1. A mentee enters agenda in text/bullet points in the e-mentoring solution, before the next session.
+2. A mentor can also enter the agenda in the e-mentoring solution, but it is preferred that mentee does it.
+3. Mentor and mentee should work together to define the agenda, but mentee should be the driver, to discuss what she/he wants to learn. This is stated as a guideline when entering the goals to the e-mentoring solution.
+4. The agenda is shown in the calendar entry for every session between mentor and mentee.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the agenda-setting process is clear, ensuring preparation and effectiveness in mentorship sessions.",
+1984,"Value statement: As a mentee or mentor, I want to be able to schedule a session so that I can keep track of obligations. Acceptance criteria: 1. A session card contains the session's start time, end time, agenda, program goals, and potentially description (description is optional).
+2. Start time is before end time.
+3. Start and end date an timess are entered using date and time pickers, to make the input easier. Upon successful form submission, a page reload will not happen, instead the form will be replaced with the new event card.
+4. Agenda can be entered during session scheduling, or earlier.
+5. A mentor or mentee can see their sessions in the calendar.
+6. Administrator user can see all session in the calendar. 
+7. Administrator user can filter the sessions by user to have better visibility.
+8. A session can be edited (start and end time, agenda, description) before start date and time. After that is is not editable. 
+9. A session can be deleted before start date and time. After that is is not deletable.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the scheduling process is clear, ensuring a systematic way of keeping track of mentorship sessions.",
+1985,"Value statement: As a mentee or mentor, I want to set review my pair on a regular basis (as set in the program parameters), so that we can track progress and adjust our process throughout the program. Acceptance criteria: 1. Progress is measured every review period, as set in the program parameters. Mentors and mentees receive email notification to execute the review of their pair.
+2. Review happens at the beginning of a session (5-10 minutes).
+3. As a result of the review, goals can be updated.
+4. Questions of the review are as in the Regular Review Questionnaires sheet.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the regular review process is clear, ensuring continuous progress tracking.",
+1986,"Value statement: As a mentee or mentor, I want to execute final evaluation of my pair, so that we can close the program. Acceptance criteria: 1. Final evaluation is the last of the regular reviews. 
+2. Final evaluation done by both mentor and mentee closes the program for that pair.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 70/80
+Feedback:
+The user story is well-constructed, and the final evaluation process is clear, ensuring a formal closure of the mentorship program.",
+1987,"Value statement: As an administrator user, I want to be able to translate interface, certificates and email notifications in the admin module, so that the web application can be used in different languages. Acceptance criteria: 1. Administrator user is able to start a new language in admin module.
+2. All texts and labels in the interface are translatable in admin module, preferably in a table.
+3. All email notifications  are translatable in admin module.
+4. All attachments, such as certificates or terms of program (memorandum) are translatable in admin module.
+5. Administrator user is able to update or change the current values of translations, per language.
+6. There can be as many languages as needed, ie, there is no limit on number of languages for translation.
+7. When a language is activated in admin tool, a web application user can select it in the language selector. When language is selected in language selector, translations from that language are applied throughout the interface.
+Nice to have:
+8. The translations are importable from excel table (csv) format. When the file is imported, the translations are applied to the selected language.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the translation feature is clear, ensuring accessibility for users in various languages.",
+1988,"Value statement: As an administrator user,  I want to register a new approver user, so that he/she can access the system and approve mentors and mentees access and system requests. Acceptance criteria: 1. Following fields are input for registration of a new approver
+   - First name
+   - Last name 
+   - Username
+   - Password and Repeat password
+   - Email
+2. Password cannot be smaller than 8 symbols and maximum of 25 symbols with the following requirements:
+   - Using a minimum of one Capital letter
+   - Using a minimum of one small letter
+   - Using minimum one Number
+   - Using at least one Special symbols
+3. Password requirements are clearly stated on the registration form, so that the user is aware of them before inputing it.
+4. After registration the registered approver user receives the registration confirmation email.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the registration process for an approver user is clear, ensuring effective access control within the system.",
+1989,"Value statement: As an administrator user,  I want to register a new mentor or mentee user on their behalf, so that he/she can access the system, in case they are momentarily unable to register themselves. Acceptance criteria: 1. Administrator user can fill the registration form to register mentor or mentee user to e-mentoring solution, on their behalf. All of the following fields are filled:
+   - First name
+   - Last name 
+   - Username
+   - Password and Repeat password
+   - Email
+   - Role selection (mentee or mentor)
+2. Password cannot be smaller than 8 symbols and maximum of 25 symbols with the following requirements:
+   - Using a minimum of one Capital letter
+   - Using a minimum of one small letter
+   - Using minimum one Number
+   - Using at least one Special symbols
+3. Password requirements are clearly stated on the registration form, so that the user is aware of them before inputing it.
+4. User is only able to submit and to open the page via secure encrypted URL by default.
+5. When Admistrator successfully submits the registration, new mentee or mentor user is created and email notification is sent to her/his email address. The email notification contains link to questionnaire, so that mentor/mentee user can fill it for match-making.
+6. Password and Repeat password is masked with asterisks (*) during user input
+7. Green check mark next to 'New Password' data field is displayed after typing password that meets criteria.
+8. Red cross mark next to 'New Password' data field is displayed after typing password that does not meet criteria.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the administrator's role and the purpose behind registering on behalf of others.
+Product definition in ""I want to"" part: 10/10
+Total Score: 79/80
+Feedback:
+The user story is well-constructed, but the connection between the ""So that"" clause and the administrator's role could be strengthened for better clarity.",
+1990,"Value statement: As an administrator user, I want to enter new questionnaire for registration, so that these questions are shown in the mentor/mentee registration forms.  Acceptance criteria: 1. Administrator user can enter new questionnaire in the e-mentoring solution.
+2. The entered questioinnaire appears during mentor and mentee registration.
+3. Sample questionnaire is shown in Registration Questionnaire sheet.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the administrator's role and the purpose behind entering a new questionnaire.
+Product definition in ""I want to"" part: 10/10
+Total Score: 79/80
+Feedback:
+The user story is well-constructed, but the connection between the ""So that"" clause and the administrator's role could be strengthened for better clarity.",
+1991,"Value statement: As a mentor, I want to indicate my capacity to mentor during the program, so I can be paired to one or more mentee. Acceptance criteria: 1. Capacity is based on the answer to question: 'Capaity (number of hours available per month)' provided to the Registration Questionnaire and is automatic process. 
+2. If minimum session duration is 30 minutes, then: 
+integer part of n = Capacity / 30 minutes - number of mentees possible to be paired to this mentor.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80
+Feedback:
+The user story is well-constructed, and the mentor capacity indication process is clear, ensuring efficient pairing based on availability.",
+1992,"Value statement: As a mentee, I want to be automatically matched to one or more mentors, based on our likeness, so that I can be paired to one of them. Acceptance criteria: 1. Matching is based on the answers provided to the Registration Questionnaire and is automatic process. 
+2. Weight is summed for each match in answers for a mentor and a mentee. 
+3. A mentor and a mentee that have score 70% and above are matched.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the mentee's goal and the purpose behind automatic matching.
+Product definition in ""I want to"" part: 10/10
+Total Score: 79/80
+Feedback:
+The user story is well-constructed, but the connection between the ""So that"" clause and the mentee's goal could be strengthened for better clarity.",
+1993,"Value statement: As a mentee, I want to be automatically  paired to my mentor, so that we can start our mentoring program. Acceptance criteria: 1. A mentee is paired to an available mentor with maximum score. Available mentors are the ones whose capacity has not been filled. 
+2. Pairing is done first to pair all available mentors, and then if there is needed, based on capacity mentors are paired with more mentees. Example is given in Mentor-Mentee Pairing sheet.
+3. When pairing is done, mentors and mentees receive email notification informing them of their pair and their contact information.","Value Statement Evaluation:
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+Acceptance Criteria Evaluation:
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 9/10
+Feedback: The ""So that"" could be more explicitly connected to the mentee's goal and the purpose behind automatic pairing.
+Product definition in ""I want to"" part: 10/10
+Total Score: 79/80
+Feedback:
+The user story is well-constructed, but the connection between the ""So that"" clause and the mentee's goal could be strengthened for better clarity.",
